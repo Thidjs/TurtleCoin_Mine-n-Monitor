@@ -239,3 +239,142 @@ Tue, 11 Sep 2018 12:26:47 GMT 	Checking network connection to www.google.co.uk
 Tue, 11 Sep 2018 12:26:48 GMT 	Quick Check Stak
 Tue, 11 Sep 2018 12:26:50 GMT 	xmr-stak process was not found
 Tue, 11 Sep 2018 12:26:51 GMT 	Setting Env Variables for STAK
+
+Tue, 11 Sep 2018 15:42:18 GMT 	Starting the Hash Monitor Script... 4.4.6 
+
+Tue, 11 Sep 2018 15:42:18 GMT 	Displaying Startup Settings
+Tue, 11 Sep 2018 15:42:18 GMT 
+killStakOnMaxTemp        	False
+profitKillRunningStak    	False
+profitLiveCheckingEnabled	True
+profitSwitching          	False
+profitSwitchPercentage   	5
+Reset Cards enabled      	False
+Reset Cards on startup   	False
+TempWatch enabled        	False
+
+
+Tue, 11 Sep 2018 15:42:24 GMT 	You need Influx modules to write to Grafana, 
+
+Tue, 11 Sep 2018 15:42:35 GMT 	Disabling Grafana for now
+Tue, 11 Sep 2018 15:42:35 GMT 	Checking network connection to www.google.co.uk
+Tue, 11 Sep 2018 15:42:36 GMT 	Quick Check Stak
+Tue, 11 Sep 2018 15:43:49 GMT 	xmr-stak process was not found
+
+Tue, 11 Sep 2018 15:48:40 GMT 	Starting the Hash Monitor Script... 4.4.6 
+
+Tue, 11 Sep 2018 15:48:40 GMT 	Displaying Startup Settings
+Tue, 11 Sep 2018 15:48:40 GMT 
+killStakOnMaxTemp        	False
+profitKillRunningStak    	False
+profitLiveCheckingEnabled	True
+profitSwitching          	False
+profitSwitchPercentage   	5
+Reset Cards enabled      	False
+Reset Cards on startup   	False
+TempWatch enabled        	False
+
+
+Tue, 11 Sep 2018 15:48:45 GMT 	You need Influx modules to write to Grafana, 
+
+Tue, 11 Sep 2018 15:48:45 GMT 	https://github.com/markwragg/PowerShell-Influx
+
+Tue, 11 Sep 2018 15:48:56 GMT 	Disabling Grafana for now
+Tue, 11 Sep 2018 15:48:56 GMT 	Checking network connection to www.google.co.uk
+Tue, 11 Sep 2018 15:48:57 GMT 	Quick Check Stak
+Tue, 11 Sep 2018 15:48:59 GMT 	xmr-stak process was not found
+Tue, 11 Sep 2018 15:49:01 GMT 	Setting Env Variables for STAK
+Tue, 11 Sep 2018 15:49:02 GMT 	Env Variables for STAK have been set
+Tue, 11 Sep 2018 15:49:03 GMT 	Starting STAK
+Tue, 11 Sep 2018 15:49:14 GMT 	STAK API responding
+Tue, 11 Sep 2018 15:49:14 GMT 	Waiting for hash rate to stabilize
+
+Tue, 11 Sep 2018 15:50:44 GMT 	Starting the Hash Monitor Script... 4.4.6 
+
+Tue, 11 Sep 2018 15:50:44 GMT 	Displaying Startup Settings
+Tue, 11 Sep 2018 15:50:44 GMT 
+killStakOnMaxTemp        	False
+profitKillRunningStak    	False
+profitLiveCheckingEnabled	True
+profitSwitching          	False
+profitSwitchPercentage   	5
+Reset Cards enabled      	False
+Reset Cards on startup   	False
+TempWatch enabled        	False
+
+
+Tue, 11 Sep 2018 15:50:49 GMT 	You need Influx modules to write to Grafana, 
+
+Tue, 11 Sep 2018 15:50:49 GMT 	https://github.com/markwragg/PowerShell-Influx
+Tue, 11 Sep 2018 15:50:55 GMT 	Installing https://github.com/markwragg/PowerShell-Influx
+
+Tue, 11 Sep 2018 15:51:07 GMT 	Disabling Grafana for now
+Tue, 11 Sep 2018 15:51:07 GMT 	Checking network connection to www.google.co.uk
+Tue, 11 Sep 2018 15:51:08 GMT 	Quick Check Stak
+Tue, 11 Sep 2018 15:51:08 GMT 	STAK API responding
+Tue, 11 Sep 2018 15:51:08 GMT 	Waiting for hash rate to stabilize
+Tue, 11 Sep 2018 15:51:09 GMT 	STAK was already running, Skipping wait time
+Tue, 11 Sep 2018 15:51:09 GMT 	Dead thread check
+Tue, 11 Sep 2018 15:51:09 GMT 	0 dead threads found
+Tue, 11 Sep 2018 15:51:12 GMT 	Starting Hashrate: 131.3 H/s	Drop Target Hashrate: -168.7 H/s
+Tue, 11 Sep 2018 15:51:12 GMT 	Hash monitoring has begun.
+
+Tue, 11 Sep 2018 16:10:23 GMT 	Starting the Hash Monitor Script... 4.4.6 
+
+Tue, 11 Sep 2018 16:10:23 GMT 	Displaying Startup Settings
+Tue, 11 Sep 2018 16:10:23 GMT 
+killStakOnMaxTemp        	False
+profitKillRunningStak    	False
+profitLiveCheckingEnabled	True
+profitSwitching          	False
+profitSwitchPercentage   	5
+Reset Cards enabled      	False
+Reset Cards on startup   	False
+TempWatch enabled        	False
+
+
+Tue, 11 Sep 2018 16:10:28 GMT 	You need Influx modules to write to Grafana, 
+
+Tue, 11 Sep 2018 16:10:28 GMT 	https://github.com/markwragg/PowerShell-Influx
+Tue, 11 Sep 2018 16:10:35 GMT 	Installing https://github.com/markwragg/PowerShell-Influx
+
+Tue, 11 Sep 2018 16:10:49 GMT 	Disabling Grafana for now
+Tue, 11 Sep 2018 16:10:49 GMT 	Checking network connection to www.google.co.uk
+Tue, 11 Sep 2018 16:10:50 GMT 	Quick Check Stak
+Tue, 11 Sep 2018 16:10:50 GMT 	STAK API responding
+Tue, 11 Sep 2018 16:10:50 GMT 	Waiting for hash rate to stabilize
+Tue, 11 Sep 2018 16:10:50 GMT 	STAK was already running, Skipping wait time
+Tue, 11 Sep 2018 16:10:50 GMT 	Dead thread check
+Tue, 11 Sep 2018 16:10:50 GMT 	0 dead threads found
+Tue, 11 Sep 2018 16:10:53 GMT 	Starting Hashrate: 206.5 H/s	Drop Target Hashrate: -93.5 H/s
+Tue, 11 Sep 2018 16:10:53 GMT 	Hash monitoring has begun.
+
+Tue, 11 Sep 2018 16:17:09 GMT 	Starting the Hash Monitor Script... 4.4.6 
+
+Tue, 11 Sep 2018 16:17:09 GMT 	Displaying Startup Settings
+Tue, 11 Sep 2018 16:17:09 GMT 
+killStakOnMaxTemp        	False
+profitKillRunningStak    	False
+profitLiveCheckingEnabled	True
+profitSwitching          	False
+profitSwitchPercentage   	5
+Reset Cards enabled      	False
+Reset Cards on startup   	False
+TempWatch enabled        	False
+
+
+Tue, 11 Sep 2018 16:17:14 GMT 	You need Influx modules to write to Grafana, 
+
+Tue, 11 Sep 2018 16:17:14 GMT 	https://github.com/markwragg/PowerShell-Influx
+Tue, 11 Sep 2018 16:17:17 GMT 	Installing https://github.com/markwragg/PowerShell-Influx
+
+Tue, 11 Sep 2018 16:17:24 GMT 	Disabling Grafana for now
+Tue, 11 Sep 2018 16:17:24 GMT 	Checking network connection to www.google.co.uk
+Tue, 11 Sep 2018 16:17:26 GMT 	Quick Check Stak
+Tue, 11 Sep 2018 16:17:26 GMT 	STAK API responding
+Tue, 11 Sep 2018 16:17:26 GMT 	Waiting for hash rate to stabilize
+Tue, 11 Sep 2018 16:17:26 GMT 	STAK was already running, Skipping wait time
+Tue, 11 Sep 2018 16:17:26 GMT 	Dead thread check
+Tue, 11 Sep 2018 16:17:26 GMT 	0 dead threads found
+Tue, 11 Sep 2018 16:17:29 GMT 	Starting Hashrate: 184.9 H/s	Drop Target Hashrate: -115.1 H/s
+Tue, 11 Sep 2018 16:17:29 GMT 	Hash monitoring has begun.

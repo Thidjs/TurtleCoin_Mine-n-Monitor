@@ -2324,7 +2324,7 @@ Function Run-Miner {
 					$intAnswer = $a.popup( "Do you want to install these now ?", 10, "Install modules from https://github.com/markwragg/PowerShell-Influx", 4 + 32 )
 					If ( $intAnswer -eq 6 ) {
 						log-write -logstring "Installing https://github.com/markwragg/PowerShell-Influx" -fore yellow -notification 1
-						Install-Module Influx -Scope CurrentUser -ErrorAction Inquire
+						Install-Module -Name Helpers, WebRequest, InfluxDb -Scope CurrentUser -AllowClobber -ErrorAction Inquire
 					}
 				}
 
