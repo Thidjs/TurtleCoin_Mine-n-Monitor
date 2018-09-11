@@ -378,3 +378,61 @@ Tue, 11 Sep 2018 16:17:26 GMT 	Dead thread check
 Tue, 11 Sep 2018 16:17:26 GMT 	0 dead threads found
 Tue, 11 Sep 2018 16:17:29 GMT 	Starting Hashrate: 184.9 H/s	Drop Target Hashrate: -115.1 H/s
 Tue, 11 Sep 2018 16:17:29 GMT 	Hash monitoring has begun.
+
+Tue, 11 Sep 2018 20:14:29 GMT 	Starting the Hash Monitor Script... 4.4.6 
+
+Tue, 11 Sep 2018 20:14:29 GMT 	Displaying Startup Settings
+Tue, 11 Sep 2018 20:14:29 GMT 
+killStakOnMaxTemp        	False
+profitKillRunningStak    	False
+profitLiveCheckingEnabled	True
+profitSwitching          	False
+profitSwitchPercentage   	5
+Reset Cards enabled      	False
+Reset Cards on startup   	False
+TempWatch enabled        	False
+
+
+Tue, 11 Sep 2018 20:14:34 GMT 	You need Influx modules to write to Grafana, 
+
+Tue, 11 Sep 2018 20:14:34 GMT 	https://github.com/markwragg/PowerShell-Influx
+Tue, 11 Sep 2018 20:14:41 GMT 	Installing https://github.com/markwragg/PowerShell-Influx
+
+Tue, 11 Sep 2018 20:15:14 GMT 	Disabling Grafana for now
+Tue, 11 Sep 2018 20:18:24 GMT 	Checking network connection to www.google.co.uk
+Tue, 11 Sep 2018 20:18:25 GMT 	Quick Check Stak
+Tue, 11 Sep 2018 20:18:25 GMT 	STAK API responding
+Tue, 11 Sep 2018 20:18:25 GMT 	Waiting for hash rate to stabilize
+Tue, 11 Sep 2018 20:18:26 GMT 	STAK was already running, Skipping wait time
+Tue, 11 Sep 2018 20:18:26 GMT 	Dead thread check
+Tue, 11 Sep 2018 20:18:26 GMT 	0 dead threads found
+
+Tue, 11 Sep 2018 20:19:00 GMT 	Starting the Hash Monitor Script... 4.4.6 
+
+Tue, 11 Sep 2018 20:19:01 GMT 	Displaying Startup Settings
+Tue, 11 Sep 2018 20:19:01 GMT 
+killStakOnMaxTemp        	False
+profitKillRunningStak    	False
+profitLiveCheckingEnabled	True
+profitSwitching          	False
+profitSwitchPercentage   	5
+Reset Cards enabled      	False
+Reset Cards on startup   	False
+TempWatch enabled        	False
+
+
+Tue, 11 Sep 2018 20:19:06 GMT 	You need Influx modules to write to Grafana, 
+
+Tue, 11 Sep 2018 20:19:07 GMT 	https://github.com/markwragg/PowerShell-Influx
+Tue, 11 Sep 2018 20:19:10 GMT 	Installing https://github.com/markwragg/PowerShell-Influx
+
+Tue, 11 Sep 2018 20:19:36 GMT 	Disabling Grafana for now
+Tue, 11 Sep 2018 20:19:36 GMT 	Checking network connection to www.google.co.uk
+Tue, 11 Sep 2018 20:19:37 GMT 	Quick Check Stak
+Tue, 11 Sep 2018 20:19:37 GMT 	STAK API responding
+Tue, 11 Sep 2018 20:19:37 GMT 	Waiting for hash rate to stabilize
+Tue, 11 Sep 2018 20:19:37 GMT 	STAK was already running, Skipping wait time
+Tue, 11 Sep 2018 20:19:37 GMT 	Dead thread check
+Tue, 11 Sep 2018 20:19:37 GMT 	0 dead threads found
+Tue, 11 Sep 2018 20:19:40 GMT 	Starting Hashrate: 178.9 H/s	Drop Target Hashrate: -121.1 H/s
+Tue, 11 Sep 2018 20:19:40 GMT 	Hash monitoring has begun.
