@@ -436,3 +436,55 @@ Tue, 11 Sep 2018 20:19:37 GMT 	Dead thread check
 Tue, 11 Sep 2018 20:19:37 GMT 	0 dead threads found
 Tue, 11 Sep 2018 20:19:40 GMT 	Starting Hashrate: 178.9 H/s	Drop Target Hashrate: -121.1 H/s
 Tue, 11 Sep 2018 20:19:40 GMT 	Hash monitoring has begun.
+
+Tue, 11 Sep 2018 20:37:31 GMT 	Starting the Hash Monitor Script... 4.4.6 
+
+Tue, 11 Sep 2018 20:37:31 GMT 	Displaying Startup Settings
+Tue, 11 Sep 2018 20:37:31 GMT 
+killStakOnMaxTemp        	False
+profitKillRunningStak    	False
+profitLiveCheckingEnabled	True
+profitSwitching          	False
+profitSwitchPercentage   	5
+Reset Cards enabled      	False
+Reset Cards on startup   	False
+TempWatch enabled        	False
+
+Tue, 11 Sep 2018 20:37:37 GMT 	Checking network connection to www.google.co.uk
+Tue, 11 Sep 2018 20:37:40 GMT 	Quick Check Stak
+Tue, 11 Sep 2018 20:37:42 GMT 	xmr-stak process was not found
+Tue, 11 Sep 2018 20:37:44 GMT 	Devices found 1
+Tue, 11 Sep 2018 20:37:45 GMT 	Suppoorted Devices   					 Radeon RX 580 Series   					 
+Tue, 11 Sep 2018 20:37:50 GMT 	Setting Env Variables for STAK
+Tue, 11 Sep 2018 20:37:52 GMT 	Env Variables for STAK have been set
+Tue, 11 Sep 2018 20:37:52 GMT 	Starting STAK
+Tue, 11 Sep 2018 20:38:43 GMT 	STAK API responding
+Tue, 11 Sep 2018 20:38:43 GMT 	Waiting for hash rate to stabilize
+Tue, 11 Sep 2018 20:39:44 GMT 	Starting Hashrate: 1401.8 H/s	Drop Target Hashrate: 1101.8 H/s
+Tue, 11 Sep 2018 20:39:44 GMT 	Hash monitoring has begun.
+
+Tue, 11 Sep 2018 21:54:04 GMT 	Starting the Hash Monitor Script... 4.4.6 
+
+Tue, 11 Sep 2018 21:54:05 GMT 	Displaying Startup Settings
+Tue, 11 Sep 2018 21:54:05 GMT 
+killStakOnMaxTemp        	False
+profitKillRunningStak    	False
+profitLiveCheckingEnabled	True
+profitSwitching          	False
+profitSwitchPercentage   	5
+Reset Cards enabled      	False
+Reset Cards on startup   	False
+TempWatch enabled        	False
+
+Tue, 11 Sep 2018 21:54:11 GMT 	Checking network connection to www.google.co.uk
+Tue, 11 Sep 2018 21:54:13 GMT 	Quick Check Stak
+Tue, 11 Sep 2018 21:54:16 GMT 	xmr-stak process was not found
+Tue, 11 Sep 2018 21:54:18 GMT 	Devices found 1
+Tue, 11 Sep 2018 21:54:19 GMT 	Suppoorted Devices   					 Radeon RX 580 Series   					 
+Tue, 11 Sep 2018 21:54:24 GMT 	Setting Env Variables for STAK
+Tue, 11 Sep 2018 21:54:29 GMT 	Env Variables for STAK have been set
+Tue, 11 Sep 2018 21:54:29 GMT 	Starting STAK
+Tue, 11 Sep 2018 21:54:39 GMT 	STAK API responding
+Tue, 11 Sep 2018 21:54:39 GMT 	Waiting for hash rate to stabilize
+Tue, 11 Sep 2018 21:55:39 GMT 	Starting Hashrate: 1552.4 H/s	Drop Target Hashrate: 1252.4 H/s
+Tue, 11 Sep 2018 21:55:39 GMT 	Hash monitoring has begun.

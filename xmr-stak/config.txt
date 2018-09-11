@@ -1,4 +1,4 @@
-﻿
+
 /*
  * Network timeouts.
  * Because of the way this client is written it doesn't need to constantly talk (keep-alive) to the server to make
@@ -129,6 +129,7 @@
  *
  * httpd_port - Port we should listen on. Default, 0, will switch off the server.
  */
+"httpd_port" : 987,
 
 /*
  * HTTP Authentication
@@ -149,8 +150,3 @@
  */
 "prefer_ipv4" : true,
 
-/*
- *SCRIPT GENERATED CONFIG BELOW
- */
-
-"httpd_port" : 987,
