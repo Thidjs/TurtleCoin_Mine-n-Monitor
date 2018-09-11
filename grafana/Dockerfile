@@ -72,6 +72,9 @@ COPY influxdb/init.sh /etc/init.d/influxdb
 
 # Configure Grafana
 COPY grafana/grafana.ini /etc/grafana/grafana.ini
+COPY grafana/telegraf.yaml /etc/grafana/provisioning/datasources/telegraf.yaml
+COPY grafana/telegraf.yaml /etc/grafana/provisioning/datasources/xmrSTAK.yaml
+COPY grafana/telegraf.yaml /etc/grafana/provisioning/datasources/ohmgraphite.yaml
 
 RUN chmod 0755 /etc/init.d/influxdb
 RUN chmod a+x /etc/init.d/influxdb

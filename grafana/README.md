@@ -32,6 +32,9 @@ docker run -d \
   -v /path/for/grafana:/var/lib/grafana \
   philhawthorne/docker-influxdb-grafana:latest
 ```
+docker stop $(docker ps -aq)
+docker rm $(docker ps -aq)
+docker rmi $(docker images -q)
 
 To stop the container launch:
 

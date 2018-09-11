@@ -4651,3 +4651,26 @@
 2018-09-10 14:33:38.2110|INFO||Sent 17 metrics in 36,3477ms
 2018-09-10 14:33:43.2063|INFO||Sent 17 metrics in 32,1235ms
 2018-09-10 14:33:48.1986|INFO||Sent 17 metrics in 23,4324ms
+2018-09-10 14:33:53.2107|INFO||Sent 17 metrics in 31,3827ms
+2018-09-10 14:33:58.2271|INFO||Sent 17 metrics in 37,827ms
+2018-09-10 14:34:03.2207|INFO||Sent 17 metrics in 31,8901ms
+2018-09-10 14:34:08.2106|INFO||Sent 17 metrics in 22,1445ms
+2018-09-10 14:34:13.2139|INFO||Sent 17 metrics in 24,6917ms
+2018-09-10 14:34:18.2832|INFO||Sent 17 metrics in 92,8064ms
+2018-09-10 14:34:23.2320|INFO||Sent 17 metrics in 41,3264ms
+2018-09-10 14:34:28.2348|INFO||Sent 17 metrics in 44,0013ms
+2018-09-10 14:34:33.2224|INFO||Sent 17 metrics in 31,4805ms
+2018-09-10 14:34:38.2246|INFO||Sent 17 metrics in 31,9236ms
+2018-09-10 14:34:43.2221|INFO||Sent 17 metrics in 18,4911ms
+2018-09-10 14:34:48.2407|INFO||Sent 17 metrics in 21,5742ms
+2018-09-10 14:34:53.2439|INFO||Sent 17 metrics in 23,1138ms
+2018-09-10 14:34:58.2376|INFO||Sent 17 metrics in 17,7557ms
+2018-09-10 14:35:03.2636|INFO||Sent 17 metrics in 43,0485ms
+2018-09-10 14:35:08.2640|INFO||Sent 17 metrics in 43,6318ms
+2018-09-10 14:35:13.3185|INFO||Sent 17 metrics in 96,7392ms
+2018-09-10 14:35:18.2469|INFO||Sent 17 metrics in 25,4325ms
+2018-09-10 14:35:23.2439|INFO||Sent 17 metrics in 21,6929ms
+2018-09-10 14:35:28.2623|INFO||Sent 17 metrics in 26,2272ms
+2018-09-10 14:35:33.2595|INFO||Sent 17 metrics in 22,3333ms
+2018-09-10 14:35:34.9025|INFO|Topshelf.Hosts.ConsoleRunHost|Control+C detected, attempting to stop service.
+2018-09-10 14:35:34.9533|INFO|Topshelf.Hosts.ConsoleRunHost|The OhmGraphite service has stopped.
