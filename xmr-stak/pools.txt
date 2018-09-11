@@ -13,11 +13,6 @@
  * We feature pools up to 1MH/s. For a more complete list see M5M400's pool list at www.moneropools.com
  */
 
-"pool_list" :
-[
-	{"pool_address" : "geo.atpool.party:6666", "wallet_address" : "TRTLv1ZMwULhz66xHH6CCVZFmXtuCZLFraQFDLLTu6XYb639UYE2fVTDot8oZyBs6KFxs1Hiz3T8TRLfL1d1CKRGTH2Epd1SyVV", "rig_id" : "", "pool_password" : "prick-pc-01", "use_nicehash" : false, "use_tls" : false, "tls_fingerprint" : "", "pool_weight" : 1 },
-],
-
 /*
  * Currency to mine. Supported values:
  *
@@ -49,40 +44,9 @@
 
 "currency" : "turtlecoin",
 
-
-"pool_list" :
-[
-	{"pool_address" : "test:1234", "wallet_address" : "TRTLtest", "rig_id" : "", "pool_password" : "", "use_nicehash" : false, "use_tls" : false, "tls_fingerprint" : "", "pool_weight" : 1 },
-],
-"pool_list" :
-[
-	{"pool_address" : "test:1244", "wallet_address" : "TRTLsd", "rig_id" : "", "pool_password" : "", "use_nicehash" : false, "use_tls" : false, "tls_fingerprint" : "", "pool_weight" : 1 },
-],
-"pool_list" :
-[
-	{"pool_address" : "test:12345", "wallet_address" : "TRTRRRER", "rig_id" : "", "pool_password" : "", "use_nicehash" : false, "use_tls" : false, "tls_fingerprint" : "", "pool_weight" : 1 },
-],
-"pool_list" :
-[
-	{"pool_address" : "", "wallet_address" : "", "rig_id" : "", "pool_password" : "", "use_nicehash" : false, "use_tls" : false, "tls_fingerprint" : "", "pool_weight" : 1 },
-],
-"pool_list" :
-[
-	{"pool_address" : "test:1234", "wallet_address" : "TRTL1", "rig_id" : "", "pool_password" : "", "use_nicehash" : false, "use_tls" : false, "tls_fingerprint" : "", "pool_weight" : 1 },
-],
-"pool_list" :
-[
-	{"pool_address" : "", "wallet_address" : "", "rig_id" : "", "pool_password" : "", "use_nicehash" : false, "use_tls" : false, "tls_fingerprint" : "", "pool_weight" : 1 },
-],
-"pool_list" :
-[
-	{"pool_address" : "pool.test.com:1234", "wallet_address" : "TRTL12345668", "rig_id" : "", "pool_password" : "", "use_nicehash" : false, "use_tls" : false, "tls_fingerprint" : "", "pool_weight" : 1 },
-],
-"pool_list" :
-[
-	{"pool_address" : "test69:123", "wallet_address" : "trtl12345", "rig_id" : "", "pool_password" : "", "use_nicehash" : false, "use_tls" : false, "tls_fingerprint" : "", "pool_weight" : 1 },
-],
-"pool_list" :
+/*
+ *SCRIPT GENERATED CONFIG BELOW
+ */"pool_list" :
 [
 	{"pool_address" : "geo.atpool.party:6666", "wallet_address" : "TRTLv1ZMwULhz66xHH6CCVZFmXtuCZLFraQFDLLTu6XYb639UYE2fVTDot8oZyBs6KFxs1Hiz3T8TRLfL1d1CKRGTH2Epd1SyVV", "rig_id" : "", "pool_password" : "", "use_nicehash" : false, "use_tls" : false, "tls_fingerprint" : "", "pool_weight" : 1 },
 ],

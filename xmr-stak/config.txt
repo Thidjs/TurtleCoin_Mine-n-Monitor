@@ -129,7 +129,6 @@
  *
  * httpd_port - Port we should listen on. Default, 0, will switch off the server.
  */
-"httpd_port" : 987,
 
 /*
  * HTTP Authentication
@@ -150,13 +149,8 @@
  */
 "prefer_ipv4" : true,
 
+/*
+ *SCRIPT GENERATED CONFIG BELOW
+ */
 
-"httpd_port" : 987,
-"httpd_port" : 984,
-"httpd_port" : 987,
-"httpd_port" : ,
-"httpd_port" : 123,
-"httpd_port" : ,
-"httpd_port" : 987,
-"httpd_port" : 987,
 "httpd_port" : 987,
