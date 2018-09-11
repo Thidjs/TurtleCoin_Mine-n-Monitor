@@ -36,6 +36,8 @@ docker stop $(docker ps -aq)
 docker rm $(docker ps -aq)
 docker rmi $(docker images -q)
 
+sed -i -e 's/\r$//' /etc/init.d/influxdb
+
 To stop the container launch:
 
 ```sh

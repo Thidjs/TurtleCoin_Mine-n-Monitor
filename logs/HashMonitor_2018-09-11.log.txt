@@ -488,3 +488,26 @@ Tue, 11 Sep 2018 21:54:39 GMT 	STAK API responding
 Tue, 11 Sep 2018 21:54:39 GMT 	Waiting for hash rate to stabilize
 Tue, 11 Sep 2018 21:55:39 GMT 	Starting Hashrate: 1552.4 H/s	Drop Target Hashrate: 1252.4 H/s
 Tue, 11 Sep 2018 21:55:39 GMT 	Hash monitoring has begun.
+
+Tue, 11 Sep 2018 23:24:35 GMT 	Starting the Hash Monitor Script... 4.4.6 
+
+Tue, 11 Sep 2018 23:24:36 GMT 	Displaying Startup Settings
+Tue, 11 Sep 2018 23:24:36 GMT 
+killStakOnMaxTemp        	False
+profitKillRunningStak    	False
+profitLiveCheckingEnabled	True
+profitSwitching          	False
+profitSwitchPercentage   	5
+Reset Cards enabled      	False
+Reset Cards on startup   	False
+TempWatch enabled        	False
+
+Tue, 11 Sep 2018 23:24:41 GMT 	Checking network connection to www.google.co.uk
+Tue, 11 Sep 2018 23:24:43 GMT 	Quick Check Stak
+Tue, 11 Sep 2018 23:24:44 GMT 	STAK API responding
+Tue, 11 Sep 2018 23:24:44 GMT 	Waiting for hash rate to stabilize
+Tue, 11 Sep 2018 23:24:45 GMT 	STAK was already running, Skipping wait time
+Tue, 11 Sep 2018 23:24:45 GMT 	Dead thread check
+Tue, 11 Sep 2018 23:24:45 GMT 	0 dead threads found
+Tue, 11 Sep 2018 23:24:48 GMT 	Starting Hashrate: 1783.5 H/s	Drop Target Hashrate: 1483.5 H/s
+Tue, 11 Sep 2018 23:24:48 GMT 	Hash monitoring has begun.
