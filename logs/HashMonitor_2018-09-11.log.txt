@@ -511,3 +511,29 @@ Tue, 11 Sep 2018 23:24:45 GMT 	Dead thread check
 Tue, 11 Sep 2018 23:24:45 GMT 	0 dead threads found
 Tue, 11 Sep 2018 23:24:48 GMT 	Starting Hashrate: 1783.5 H/s	Drop Target Hashrate: 1483.5 H/s
 Tue, 11 Sep 2018 23:24:48 GMT 	Hash monitoring has begun.
+Thu, 13 Sep 2018 08:15:24 GMT 	Low hash rate check triggered: after 1 Days 8 Hours 38 Min - Hash rate dropped from 1783.5 H/s to  H/s
+Thu, 13 Sep 2018 08:15:26 GMT 	Checking network connection to www.google.co.uk
+Thu, 13 Sep 2018 08:15:36 GMT 	Connection up: Check time taken 00:00:07
+Thu, 13 Sep 2018 08:15:38 GMT 	Repeat Loop
+Thu, 13 Sep 2018 08:15:40 GMT 	== Loop Started ==
+
+Thu, 13 Sep 2018 08:15:41 GMT 	Displaying Startup Settings
+Thu, 13 Sep 2018 08:15:41 GMT 
+killStakOnMaxTemp        	False
+profitKillRunningStak    	False
+profitLiveCheckingEnabled	True
+profitSwitching          	False
+profitSwitchPercentage   	5
+Reset Cards enabled      	False
+Reset Cards on startup   	False
+TempWatch enabled        	False
+
+Thu, 13 Sep 2018 08:15:49 GMT 	Checking network connection to www.google.co.uk
+Thu, 13 Sep 2018 08:15:50 GMT 	Quick Check Stak
+Thu, 13 Sep 2018 08:15:51 GMT 	STAK API responding
+Thu, 13 Sep 2018 08:15:51 GMT 	Waiting for hash rate to stabilize
+Thu, 13 Sep 2018 08:15:51 GMT 	STAK was already running, Skipping wait time
+Thu, 13 Sep 2018 08:15:51 GMT 	Dead thread check
+Thu, 13 Sep 2018 08:15:51 GMT 	0 dead threads found
+Thu, 13 Sep 2018 08:15:54 GMT 	Starting Hashrate: 1780.2 H/s	Drop Target Hashrate: 1480.2 H/s
+Thu, 13 Sep 2018 08:15:54 GMT 	Hash monitoring has begun.
